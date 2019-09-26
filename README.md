@@ -29,3 +29,6 @@ manera de fer certes coses. Tot i així, it WORKS!
 Un cop jo ja he fet la matada de fer això si es fa servir i es va intentant millorar calculo que la feina del tresorer de contabilitat
 es pot veure disminuida dramàticament.
 
+Besiiis
+
+P.S: Això que veieu aquí de Pipfile i Pipfile.lock és que jo faig servir una cosa que es diu pipenv que es per no haver-me de instalar llibreries de python a nivell usuari sino a nivell projecte. Es com un package.json i tal en javascript. A mi me cunde mil i ho recomano de fer servir jejej.
