@@ -1,4 +1,4 @@
-# FuckYouTransfers
+# Accounting script
 El script del tesorero
 Cal tenir python 3 instalat amb la llibreria openpyxl (per editar excels)
 Per fer-lo anar omplir un document excel amb els següents headers.
